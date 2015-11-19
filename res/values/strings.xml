@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RollAndKeepSimulator</string>
+    <string name="roll_button_text">Roll !</string>
+    <string name="roll_dice">Dés lancés :</string>
+    <string name="keep_dice">Dés gardés :</string>
+    <string name="about_menu">A propos</string>
+    <string name="about_text">Une super appli !</string>
+</resources>
